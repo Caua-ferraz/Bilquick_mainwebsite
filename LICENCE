@@ -1,21 +1,28 @@
-MIT License
+BilQuick Software License Agreement
 
-Copyright (c) 2023 DevHau
+Copyright (c) 2023 BilQuick
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software and associated documentation files (the "BilQuick Software") are proprietary to BilQuick and are protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. **Grant of License**: BilQuick grants you the following non-exclusive rights provided you agree to and comply with all terms and conditions of this license:
+   - **Use**: You may use the BilQuick Software solely as intended through its provided functionality and in accordance with the documentation.
+   - **Backup Copies**: You may make copies of the BilQuick Software solely for backup or archival purposes.
+
+2. **Restrictions**:
+   - **Modification**: You may not modify, adapt, or translate the BilQuick Software.
+   - **Reverse Engineering**: You may not reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the BilQuick Software.
+   - **Distribution**: You may not distribute, rent, lease, or lend the BilQuick Software to any third party.
+   - **Transfer**: You may not sublicense, assign, or transfer this license or the BilQuick Software without the express written consent of BilQuick.
+
+3. **Termination**:
+   - This license is effective until terminated. It will terminate immediately without notice from BilQuick if you fail to comply with any provision of this license. Upon termination, you must destroy all copies of the BilQuick Software and all of its component parts.
+
+4. **Disclaimer of Warranties**:
+   - The BilQuick Software is provided "as is" and without warranties of any kind, express or implied, including, but not limited to, any implied warranties of merchantability or fitness for a particular purpose.
+
+5. **Limitation of Liability**:
+   - BilQuick shall not be liable for any damages whatsoever arising out of the use of or inability to use the BilQuick Software, even if BilQuick has been advised of the possibility of such damages.
+
+By installing, copying, or otherwise using the BilQuick Software, you agree to be bound by the terms of this license agreement.
