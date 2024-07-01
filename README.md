@@ -1,23 +1,23 @@
-# Startup Template - Free HTML Template for Startup, Apps and SaaS
+# BilQuick
 
-Startup Template is an open-source and free bootstrap 5 based HTML template created by the UIdeck team. It's a part of our new initiative to give back to the community and create some impactful open source projects.
+Welcome to BilQuick, your ultimate solution for streamlined financial management and invoicing. BilQuick is designed to help small to medium-sized businesses efficiently manage their invoicing, expense tracking, and financial reporting.
 
-This template is designed and developed in such a way so, that almost anyone can use it for almost any kind of website or landing pages such as SaaS, Startup, Business, Apps, Software and Agency, etc.
+## Features
 
-Startup Template comes with all essential sections and elements a complete website needs, additionally, we also created some separate pages including blogs, login, 404, and some other essential pages from homepage sections.
+- **Automated Invoicing**: Generate and send invoices automatically.
+- **Real-time Financial Reporting**: Get up-to-date financial reports to make informed decisions.
+- **Client Management**: Manage all your client information in one place.
+- **Expense Tracking**: Keep track of all business expenses to better manage your budgets.
+- **Cloud-Based**: Access your financial data anytime, anywhere.
 
-### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components (design)
+## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### [🚀 View Demo](https://startup.hau.xyz/)
+### Prerequisites
 
-### [⬇️ Download Now](https://github.com/devhau/startup-template)
+What things you need to install the software and how to install them:
 
-
-
-## 📃 License
-Startup Template is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
-
-## 💙 Support
-You can always support this project by [Starring🌟 This Repository](https://github.com/devhau/startup-template) 
-and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
+```bash
+nodejs -v 12.0.0
+npm install npm@latest -g
