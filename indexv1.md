@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>
-      BilQuick | Simplifying Business Finance Management
+      Startup | Free Startup and SaaS Landing Page Template by UIdeck
     </title>
 
     <!-- Primary Meta Tags -->
@@ -169,7 +169,7 @@
                 </li>
                 <li>
                   <a
-                    href="about.html"
+                    href="https://github.com/devhau/startup-template"
                     rel="nofollow noopener"
                     target="_blank"
                     class="ud-main-btn ud-link-btn"
@@ -314,7 +314,7 @@
     </section>
     <!-- ====== About End ====== -->
 
-    <!-- ====== Pricing Start ====== 
+    <!-- ====== Pricing Start ====== --> <!-- ====== Reimplement on lauching ======--> <!--
     <section id="pricing" class="ud-pricing">
       <div class="container">
         <div class="row">
@@ -413,18 +413,22 @@
         </div>
       </div>
     </section>
-    ====== Pricing End ====== -->
+  ====== Pricing End ====== -->
 
-<!-- ====== FAQ Start ====== -->
+    <!-- ====== FAQ Start ====== -->
     <section id="faq" class="ud-faq">
+      <div class="shape">
+        <img src="assets/images/faq/shape.svg" alt="shape" />
+      </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
             <div class="ud-section-title text-center mx-auto">
               <span>FAQ</span>
-              <h2>Frequently Asked Questions</h2>
+              <h2>Any Questions? Answered</h2>
               <p>
-                Have questions about how BilQuick works? Here are the answers to some of the most common queries we get.
+                There are many variations of passages of Lorem Ipsum available
+                but the majority have suffered alteration in some form.
               </p>
             </div>
           </div>
@@ -434,45 +438,69 @@
           <div class="col-lg-6">
             <div class="ud-single-faq wow fadeInUp" data-wow-delay=".1s">
               <div class="accordion">
-                <button class="ud-faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                <button
+                  class="ud-faq-btn collapsed"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseOne"
+                >
                   <span class="icon flex-shrink-0">
                     <i class="lni lni-chevron-down"></i>
                   </span>
-                  <span>How do I create an invoice with BilQuick?</span>
+                  <span>How to use UIdeck?</span>
                 </button>
                 <div id="collapseOne" class="accordion-collapse collapse">
                   <div class="ud-faq-body">
-                    Creating an invoice is simple. Just navigate to the 'Invoices' section, click on 'Create New Invoice', fill in the necessary information, and click 'Save' or 'Send' to finalize.
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.
                   </div>
                 </div>
               </div>
             </div>
             <div class="ud-single-faq wow fadeInUp" data-wow-delay=".15s">
               <div class="accordion">
-                <button class="ud-faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                <button
+                  class="ud-faq-btn collapsed"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwo"
+                >
                   <span class="icon flex-shrink-0">
                     <i class="lni lni-chevron-down"></i>
                   </span>
-                  <span>Can I track expenses in BilQuick?</span>
+                  <span>How to download icons from Lineicons?</span>
                 </button>
                 <div id="collapseTwo" class="accordion-collapse collapse">
                   <div class="ud-faq-body">
-                    Yes, BilQuick allows you to track your business expenses easily. You can enter your expenses manually or import them directly from your bank or credit card.
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.
                   </div>
                 </div>
               </div>
             </div>
             <div class="ud-single-faq wow fadeInUp" data-wow-delay=".2s">
               <div class="accordion">
-                <button class="ud-faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                <button
+                  class="ud-faq-btn collapsed"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree"
+                >
                   <span class="icon flex-shrink-0">
                     <i class="lni lni-chevron-down"></i>
                   </span>
-                  <span>Is my financial data secure with BilQuick?</span>
+                  <span>Is GrayGrids part of UIdeck?</span>
                 </button>
                 <div id="collapseThree" class="accordion-collapse collapse">
                   <div class="ud-faq-body">
-                    Absolutely. We prioritize your data security using advanced encryption and secure servers to ensure that your financial information remains confidential and protected.
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.
                   </div>
                 </div>
               </div>
@@ -481,45 +509,69 @@
           <div class="col-lg-6">
             <div class="ud-single-faq wow fadeInUp" data-wow-delay=".1s">
               <div class="accordion">
-                <button class="ud-faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour">
+                <button
+                  class="ud-faq-btn collapsed"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseFour"
+                >
                   <span class="icon flex-shrink-0">
                     <i class="lni lni-chevron-down"></i>
                   </span>
-                  <span>What reports can I generate with BilQuick?</span>
+                  <span>Can I use this template for commercial project?</span>
                 </button>
                 <div id="collapseFour" class="accordion-collapse collapse">
                   <div class="ud-faq-body">
-                    BilQuick provides a variety of reports including profit and loss statements, expense reports, and client account statements. These can help you make informed business decisions.
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.
                   </div>
                 </div>
               </div>
             </div>
             <div class="ud-single-faq wow fadeInUp" data-wow-delay=".15s">
               <div class="accordion">
-                <button class="ud-faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFive">
+                <button
+                  class="ud-faq-btn collapsed"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseFive"
+                >
                   <span class="icon flex-shrink-0">
                     <i class="lni lni-chevron-down"></i>
                   </span>
-                  <span>How can I get support if I encounter issues?</span>
+                  <span>Do you have plan releasing Play Pro?</span>
                 </button>
                 <div id="collapseFive" class="accordion-collapse collapse">
                   <div class="ud-faq-body">
-                    Our support team is available to help you 24/7. You can contact us through email at support@bilquick.com, or directly through our in-app support chat.
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.
                   </div>
                 </div>
               </div>
             </div>
             <div class="ud-single-faq wow fadeInUp" data-wow-delay=".2s">
               <div class="accordion">
-                <button class="ud-faq-btn collapsed" data-bs-toggle="collapse" data-bs-target="#collapseSix">
+                <button
+                  class="ud-faq-btn collapsed"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseSix"
+                >
                   <span class="icon flex-shrink-0">
                     <i class="lni lni-chevron-down"></i>
                   </span>
-                  <span>Can I integrate BilQuick with other software?</span>
+                  <span>Where and how to host this template?</span>
                 </button>
                 <div id="collapseSix" class="accordion-collapse collapse">
                   <div class="ud-faq-body">
-                    Yes, BilQuick offers integration capabilities with various accounting software and productivity tools to ensure seamless workflow transitions.
+                    Lorem Ipsum is simply dummy text of the printing and
+                    typesetting industry. Lorem Ipsum has been the industry's
+                    standard dummy text ever since the 1500s, when an unknown
+                    printer took a galley of type and scrambled it to make a
+                    type specimen book.
                   </div>
                 </div>
               </div>
@@ -538,6 +590,10 @@
             <div class="ud-section-title mx-auto text-center">
               <span>Testimonials</span>
               <h2>What our Customers Says</h2>
+              <p>
+                There are many variations of passages of Lorem Ipsum available
+                but the majority have suffered alteration in some form.
+              </p>
             </div>
           </div>
         </div>
@@ -557,8 +613,8 @@
               </div>
               <div class="ud-testimonial-content">
                 <p>
-                  “BilQuick has transformed the way we handle our finances.
-                  The automated invoicing and comprehensive reporting tools have saved us hours each month. It's intuitive and easy to use—even for someone with minimal accounting experience!"
+                  “Our members are so impressed. It's intuitive. It's clean.
+                  It's distraction free. If you're building a community.
                 </p>
               </div>
               <div class="ud-testimonial-info">
@@ -589,8 +645,8 @@
               </div>
               <div class="ud-testimonial-content">
                 <p>
-                  “As a freelancer, keeping track of payments and expenses can be overwhelming.
-                   BilQuick has made it so much easier to stay organized and focus on my work without worrying about the administrative burden. Highly recommend for any freelancers out there!"
+                  “Our members are so impressed. It's intuitive. It's clean.
+                  It's distraction free. If you're building a community.
                 </p>
               </div>
               <div class="ud-testimonial-info">
@@ -621,8 +677,8 @@
               </div>
               <div class="ud-testimonial-content">
                 <p>
-                  “Implementing BilQuick for our corporate finance operations has been a game changer.
-                   The platform's ability to integrate with our existing systems and provide real-time financial insights has greatly enhanced our decision-making processes."
+                  “Our members are so impressed. It's intuitive. It's clean.
+                  It's distraction free. If you're building a community.
                 </p>
               </div>
               <div class="ud-testimonial-info">
@@ -640,9 +696,230 @@
             </div>
           </div>
         </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="ud-brands wow fadeInUp" data-wow-delay=".2s">
+              <div class="ud-title">
+                <h6>Trusted and Used by</h6>
+              </div>
+              <div class="ud-brands-logo">
+                <div class="ud-single-logo">
+                  <img src="assets/images/brands/ayroui.svg" alt="ayroui" />
+                </div>
+                <div class="ud-single-logo">
+                  <img src="assets/images/brands/uideck.svg" alt="uideck" />
+                </div>
+                <div class="ud-single-logo">
+                  <img
+                    src="assets/images/brands/graygrids.svg"
+                    alt="graygrids"
+                  />
+                </div>
+                <div class="ud-single-logo">
+                  <img
+                    src="assets/images/brands/lineicons.svg"
+                    alt="lineicons"
+                  />
+                </div>
+                <div class="ud-single-logo">
+                  <img
+                    src="assets/images/brands/ecommerce-html.svg"
+                    alt="ecommerce-html"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
     <!-- ====== Testimonials End ====== -->
+
+    <!-- ====== Team Start ====== -->
+    <section id="team" class="ud-team">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="ud-section-title mx-auto text-center">
+              <span>Our Team</span>
+              <h2>Meet The Team</h2>
+              <p>
+                There are many variations of passages of Lorem Ipsum available
+                but the majority have suffered alteration in some form.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".1s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-01.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Adveen Desuza</h5>
+                <h6>UI Designer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".15s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-02.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Jezmin uniya</h5>
+                <h6>Product Designer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".2s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-03.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Andrieo Gloree</h5>
+                <h6>App Developer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".25s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-04.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Jackie Sanders</h5>
+                <h6>Content Writer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ====== Team End ====== -->
 
     <!-- ====== Contact Start ====== -->
     <section id="contact" class="ud-contact">
@@ -673,41 +950,51 @@
                   </div>
                   <div class="ud-info-meta">
                     <h5>How Can We Help?</h5>
-                    <p>info@bilquick.com</p>
-                    <p>contact@bilquick.com</p>
-                  </div>
-                </div>
-                <div class="ud-single-info">
-                  <div class="ud-info-icon">
-                    <i class="lni lni-handshake"></i>
-                  </div>
-                  <div class="ud-info-meta">
-                    <h5>Partnerships</h5>
-                    <p>partnership@bilquick.com</p>
+                    <p>info@yourdomain.com</p>
+                    <p>contact@yourdomain.com</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-xl-4 col-lg-5">
-            <div class="ud-contact-form-wrapper wow fadeInUp" data-wow-delay=".2s">
+            <div
+              class="ud-contact-form-wrapper wow fadeInUp"
+              data-wow-delay=".2s"
+            >
               <h3 class="ud-contact-form-title">Send us a Message</h3>
               <form class="ud-contact-form">
                 <div class="ud-form-group">
                   <label for="fullName">Full Name*</label>
-                  <input type="text" name="fullName" placeholder="Your Name" />
+                  <input
+                    type="text"
+                    name="fullName"
+                    placeholder="Adam Gelius"
+                  />
                 </div>
                 <div class="ud-form-group">
                   <label for="email">Email*</label>
-                  <input type="email" name="email" placeholder="your@email.com" />
+                  <input
+                    type="email"
+                    name="email"
+                    placeholder="example@yourmail.com"
+                  />
                 </div>
                 <div class="ud-form-group">
-                  <label for="phone">Phone</label>
-                  <input type="text" name="phone" placeholder="+1 555 1234 567" />
+                  <label for="phone">Phone*</label>
+                  <input
+                    type="text"
+                    name="phone"
+                    placeholder="+885 1254 5211 552"
+                  />
                 </div>
                 <div class="ud-form-group">
                   <label for="message">Message*</label>
-                  <textarea name="message" rows="4" placeholder="Type your message here"></textarea>
+                  <textarea
+                    name="message"
+                    rows="1"
+                    placeholder="type your message here"
+                  ></textarea>
                 </div>
                 <div class="ud-form-group mb-0">
                   <button type="submit" class="ud-main-btn">
@@ -739,10 +1026,11 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="ud-widget">
                 <a href="index.html" class="ud-footer-logo">
-                  <span class="fw-bold text-white startup-logo">Bilquick</span>
+                  <span class="fw-bold text-white startup-logo">Startup Template</span>
                 </a>
                 <p class="ud-widget-desc">
-                  We create digital technology to simplify your money management.
+                  We create digital experiences for brands and companies by
+                  using technology.
                 </p>
                 <ul class="ud-widget-socials">
                   <li>
@@ -774,17 +1062,17 @@
                 <h5 class="ud-widget-title">About Us</h5>
                 <ul class="ud-widget-links">
                   <li>
-                    <a href="#home">Home</a>
+                    <a href="javascript:void(0)">Home</a>
                   </li>
                   <li>
-                    <a href="#features">Features</a>
+                    <a href="javascript:void(0)">Features</a>
                   </li>
                   <li>
-                    <a href="#about">About</a>
+                    <a href="javascript:void(0)">About</a>
                   </li>
-                  <!--<li>
+                  <li>
                     <a href="javascript:void(0)">Testimonial</a>
-                  </li>-->
+                  </li>
                 </ul>
               </div>
             </div>
@@ -793,16 +1081,134 @@
                 <h5 class="ud-widget-title">Features</h5>
                 <ul class="ud-widget-links">
                   <li>
-                    <a href="#about">How it works</a>
+                    <a href="javascript:void(0)">How it works</a>
                   </li>
                   <li>
-                    <a href="privacy.html">Privacy policy</a>
+                    <a href="javascript:void(0)">Privacy policy</a>
                   </li>
                   <li>
-                    <a href="terms.html">Terms of service</a>
+                    <a href="javascript:void(0)">Terms of service</a>
                   </li>
                   <li>
                     <a href="javascript:void(0)">Refund policy</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
+              <div class="ud-widget">
+                <h5 class="ud-widget-title">Our Products</h5>
+                <ul class="ud-widget-links">
+                  <li>
+                    <a
+                      href="https://lineicons.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Lineicons
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://ecommercehtml.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Ecommerce HTML</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://ayroui.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Ayro UI</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://graygrids.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Plain Admin</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-6 col-md-8 col-sm-10">
+              <div class="ud-widget">
+                <h5 class="ud-widget-title">Partners</h5>
+                <ul class="ud-widget-brands">
+                  <li>
+                    <a
+                      href="https://ayroui.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/ayroui.svg"
+                        alt="ayroui"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://ecommercehtml.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/ecommerce-html.svg"
+                        alt="ecommerce-html"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://graygrids.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/graygrids.svg"
+                        alt="graygrids"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://lineicons.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/lineicons.svg"
+                        alt="lineicons"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://uideck.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/uideck.svg"
+                        alt="uideck"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://tailwindtemplates.co/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/tailwindtemplates.svg"
+                        alt="tailwindtemplates"
+                      />
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -825,6 +1231,12 @@
                   <a href="javascript:void(0)">Terms of service</a>
                 </li>
               </ul>
+            </div>
+            <div class="col-md-4">
+              <p class="ud-footer-bottom-right">
+                Designed and Developed by
+                <a href="https://hau.xyz" rel="nofollow">haudev</a>
+              </p>
             </div>
           </div>
         </div>
